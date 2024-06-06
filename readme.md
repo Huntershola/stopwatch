@@ -16,7 +16,7 @@ The Stopwatch Timer application features a user-friendly interface with a displa
 ## Live Demo
 
 You can view the live demo of this project on Netlify:
-[Stopwatch Timer](https://your-netlify-link.netlify.app)
+[Stopwatch Timer](https://stopwatch-tiktok.netlify.app/)
 
 ## License
 
